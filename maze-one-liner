@@ -1,0 +1,1 @@
+perl -C -e 'print chr(9585.5+rand) while 1'
